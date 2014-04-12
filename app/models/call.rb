@@ -8,7 +8,7 @@ class Call
     client.account.calls.create(
       from: ENV['TWILIO_CALL_FROM'],
       to:   ENV['TWILIO_CALL_TO'],
-      url: ENV['TWILIO_XML_URL'],
+      url: ENV['TWILIO_XML_URL4'],
       method: 'GET'
     )
   end

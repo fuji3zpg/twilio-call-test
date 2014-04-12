@@ -30,3 +30,7 @@ call.rb の ENV['TWILIO_XML_URL'] は、コール着信後に流すメッセー�
     <Play>http://example.com/xxx.mp3</Play>
 </Response>
 ```
+
+## コードの解説
+このリポジトリは、マーケティング技研の連載「[第2回 アナウンスを流す](http://www.marketing-giken.com/article/twilio_rails_callcenter_2)」のサンプルです。
+詳しい解説は、前掲URLをご覧ください。
